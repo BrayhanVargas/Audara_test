@@ -7,10 +7,6 @@
     "start": "node index.js",
     "dev": "nodemon --watch src index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/geckosas/audara_test_node.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
