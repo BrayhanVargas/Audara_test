@@ -41,3 +41,4 @@ vendors
 # Log Files
 # --------------------
 *.log
+.env
