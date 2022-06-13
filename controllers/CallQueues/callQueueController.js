@@ -90,7 +90,6 @@ exports.handleCode = async (apiCode, req, res) => {
 const showCallQueue = async (req, res) => {
   try {
     const queueId = parseInt(req.query.id) || '';
-
     // If id is empty
     if (queueId === '') {
       return res.status(200).json({
